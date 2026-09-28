@@ -187,7 +187,7 @@ The program:
 
   The submission (check boxes after you complete each step):
 
-    - [ ] you added your name to the top comments of the python file
+    - [x] you added your name to the top comments of the python file
     - [ ] runs without syntax errors (or -50%)
     - [ ] adds a few small but informative comments (or -5%)
     - [ ] adds docstrings to each function (or -5%)
